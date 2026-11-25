@@ -1,10 +1,10 @@
-# StellarEarn
+# BountyChain
 
 > A quest-based earning platform that turns work into achievements on the Stellar blockchain
 
 ## Overview
 
-StellarEarn is a quest-based earning platform where teams define tasks ("quests"), contributors complete them, and rewards are distributed on-chain via Stellar smart contracts (Soroban). Users level up by completing quests, building an on-chain reputation trail and unlocking higher-value opportunities.
+BountyChain is a quest-based earning platform where teams define tasks ("quests"), contributors complete them, and rewards are distributed on-chain via Stellar smart contracts (Soroban). Users level up by completing quests, building an on-chain reputation trail and unlocking higher-value opportunities.
 
 ### What It Does
 
